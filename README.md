@@ -126,6 +126,7 @@ Run the program and rtl view simulation. Create the timing diagram for each flip
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Sai Eswar Kanudukuri
+<br>
 RegisterNumber:  212221240020
 */
 ```
