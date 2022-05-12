@@ -204,19 +204,19 @@ endmodule
 ### TIMING DIGRAMS FOR FLIP FLOPS:
 
 ### SR:
-<br>
+
 ![SR TT](https://user-images.githubusercontent.com/93427011/168136469-60d1962e-c286-423c-b55f-b1e7e810acf4.jpeg)
 <br>
 ### JK:
-<br>
+
 ![JK TT](https://user-images.githubusercontent.com/93427011/168136922-85d76258-1d5b-4bd4-b509-6b4d0c66d16c.jpeg)
 <br>
 ### D:
-<br>
+
 ![D TT](https://user-images.githubusercontent.com/93427011/168137147-027581b0-b1cb-46fb-bf92-1db55c0700fc.jpeg)
 <br>
 ### T:
-<br>
+
 ![T TT](https://user-images.githubusercontent.com/93427011/168137233-274fe794-5fb6-408e-801f-93c5141caf80.jpeg)
 <br>
 
