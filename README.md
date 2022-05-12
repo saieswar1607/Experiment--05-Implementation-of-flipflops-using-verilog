@@ -184,38 +184,38 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS:
 
-### SR:
+SR:
 <br>
 <img width="1210" alt="SR" src="https://user-images.githubusercontent.com/93427011/168136083-3640d87a-5611-4957-9e21-0e43be67a576.png">
 <br>
-### JK:
+JK:
 <br>
 <img width="930" alt="JK" src="https://user-images.githubusercontent.com/93427011/168136111-90ecf014-0b65-4a87-b17d-62dc05e9c218.png">
 <br>
-### D:
+D:
 <br>
 <img width="1053" alt="D" src="https://user-images.githubusercontent.com/93427011/168136134-8b093d97-ac4d-4814-9cc9-e01158a3d15d.png">
 <br>
-### T:
+T:
 <br>
 <img width="1053" alt="T" src="https://user-images.githubusercontent.com/93427011/168136163-d4f55643-4a50-455c-aeaf-0eb155c5d41d.png">
 <br>
 
 ### TIMING DIGRAMS FOR FLIP FLOPS:
 
-### SR:
+SR:
 
 ![SR TT](https://user-images.githubusercontent.com/93427011/168136469-60d1962e-c286-423c-b55f-b1e7e810acf4.jpeg)
 <br>
-### JK:
+JK:
 
 ![JK TT](https://user-images.githubusercontent.com/93427011/168136922-85d76258-1d5b-4bd4-b509-6b4d0c66d16c.jpeg)
 <br>
-### D:
+D:
 
 ![D TT](https://user-images.githubusercontent.com/93427011/168137147-027581b0-b1cb-46fb-bf92-1db55c0700fc.jpeg)
 <br>
-### T:
+T:
 
 ![T TT](https://user-images.githubusercontent.com/93427011/168137233-274fe794-5fb6-408e-801f-93c5141caf80.jpeg)
 <br>
